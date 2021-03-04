@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="facebook_app_id">1655118518008682</string>
+    <string name="fb_login_protocol_scheme">fb1655118518008682</string>
+    <string name="login">Login</string>
+    <string name="_100_prime_numbers">100 Prime Numbers</string>
+    <string name="see_filtered_users">See Filtered Users</string>
+
+</resources>
